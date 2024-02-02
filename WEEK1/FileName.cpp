@@ -10,6 +10,7 @@ int main()
 	// Initializes an array of strings named cars with four elements ("Volvo", "BMW", "Ford", "Mazda").
 	// It then updates the first element to "Opel" and prints all the elements in the array using a loop.
 	string cars[4] = { "Volvo", "BMW", "Ford", "Mazda" };
+	// updating index[0] from volvo to opel
 	cars[0] = "Opel";
 
 	for (int i = 0; i < 4; i++)
