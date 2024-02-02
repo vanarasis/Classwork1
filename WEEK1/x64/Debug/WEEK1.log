@@ -1,0 +1,9 @@
+﻿  FileName.cpp
+C:\Users\Hello\Desktop\New folder (3)\WEEK1\FileName.cpp(26,9): error C2374: 'cars': redefinition; multiple initialization
+  C:\Users\Hello\Desktop\New folder (3)\WEEK1\FileName.cpp(12,9):
+  see declaration of 'cars'
+  
+C:\Users\Hello\Desktop\New folder (3)\WEEK1\FileName.cpp(50,9): error C2369: 'letters': redefinition; different subscripts
+  C:\Users\Hello\Desktop\New folder (3)\WEEK1\FileName.cpp(38,9):
+  see declaration of 'letters'
+  
